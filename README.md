@@ -1,4 +1,4 @@
-# eink-xplained-pro
+# eink-xplained-pro-asf3
 
 ## Introduction
 
