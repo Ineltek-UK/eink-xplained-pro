@@ -8,7 +8,7 @@ This software library is designed to work with the following displays and driver
 
 - ED029TC1 : UC8151
 - *HINK-E0154A05 : SSD1608 (not yet implemented)*
-- ED057TC2 : UC8159 (not yet implemented)
+- ED057TC2 : UC8159
 
 It also includes several open source fonts in varying sizes and weights.
 
