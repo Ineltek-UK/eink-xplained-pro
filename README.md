@@ -25,15 +25,15 @@ The folder structure should be maintained after download as the example projects
 ## Product Support
 
 Note that Microchip has ended development for the ASF3 software library, but is currently continuing to support it. With this in mind, the Eink Software Library only supports a range of Microchip devices but an ASF4 Eink Library is currently under development to bridge this gap. At present the ASF3 Eink Software Library supports any MCUs that make use of the ASF3 IOPORT Service. There are a number of example projects to show the different chips that are supported:
-- [SAM4E](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_1/eink_xplained_sam4e_ed029tc1_1_1)
-- [SAM4S](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_1/eink_xplained_sam4s_ed029tc1_1_1)
-- [SAMD20](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_1/eink_xplained_samd20_ed029tc1_1_1)
-- [SAMD21](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_1/eink_xplained_samd21_ed029tc1_1_1)
-- [SAMG55](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_1/eink_xplained_samg55_ed029tc1_1_1)
-- [SAML21A](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_1/eink_xplained_saml21a_ed029tc1_1_1)
-- [SAML21B](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_1/eink_xplained_saml21b_ed029tc1_1_1)
-- [SAMV71](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_1/eink_xplained_samv71_ed029tc1_1_1)
-- [SAMW25](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_1/eink_xplained_samw25_ed029tc1_1_1)
+- [SAM4E](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_2/eink_xplained_sam4e_ed029tc1_1_2)
+- [SAM4S](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_2/eink_xplained_sam4s_ed057tc2_1_2)
+- [SAMD20](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_2/eink_xplained_samd20_ed029tc1_1_2)
+- [SAMD21](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_2/eink_xplained_samd21_ed029tc1_1_2)
+- [SAMG55](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_2/eink_xplained_samg55_ed057tc2_1_2)
+- [SAML21A](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_2/eink_xplained_saml21a_ed029tc1_1_2)
+- [SAML21B](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_2/eink_xplained_saml21b_ed029tc1_1_2)
+- [SAMV71](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_2/eink_xplained_samv71_ed057tc2_1_2)
+- [SAMW25](https://github.com/Ineltek-UK/eink-xplained-pro-asf3/tree/master/example_projects/eink_asf3_1_2/eink_xplained_samw25_ed029tc1_1_2)
 
 ## Compilation Information
 
