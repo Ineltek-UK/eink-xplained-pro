@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Eink Xplained Pro AFS3 Software Library with example projects for use with Microchip SAM MCUs.
+Eink Xplained Pro ASF3 Software Library with example projects for use with Microchip SAM MCUs.
 
 This software library is designed to work with the following displays and driver ICs:
 
